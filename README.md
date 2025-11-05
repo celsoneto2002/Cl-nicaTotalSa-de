@@ -25,10 +25,10 @@ Banco de Dados Integrado**: O sistema utiliza um banco de dados relacional (SQLi
 
 O sistema faz uso do SQLite como banco de dados relacional. Essa escolha foi feita devido à leveza do SQLite, que não exige instalação extra e é ideal para sistemas de pequeno a médio porte. O banco de dados do sistema é composto pelas seguintes tabelas:
 
-Tabela 'usuarios'**: Armazena os dados dos usuários da recepção (nome, e-mail e senha).
+Tabela 'usuarios': Armazena os dados dos usuários da recepção (nome, e-mail e senha).
 
-Tabela 'medicos'**: Registra os médicos, incluindo nome, especialidade e CRM. O CRM é único para garantir que não haja duplicidade.
+Tabela 'medicos': Registra os médicos, incluindo nome, especialidade e CRM. O CRM é único para garantir que não haja duplicidade.
 
-Tabela 'pacientes'**: Mantém os dados dos pacientes, vinculados a um médico por meio de chave estrangeira (medico_id), além do status do atendimento.
+Tabela 'pacientes': Mantém os dados dos pacientes, vinculados a um médico por meio de chave estrangeira (medico_id), além do status do atendimento.
 
 
