@@ -4,15 +4,16 @@ A Clinica Total Saúde é um sistema de gestão para uma clínica médica, desen
 
 
 
-2) Requisitos Básicos do Sistema**
+2) Requisitos Básicos do Sistema
 
-Login e Registro de Usuários (Recepção)**: O sistema possibilita a criação e autenticação de usuários por meio de e-mail e senha.
+Login e Registro de Usuários (Recepção): O sistema possibilita a criação e autenticação de usuários por meio de e-mail e senha.
 
-Cadastro de Médicos**: Permite o cadastro de médicos com informações essenciais, como nome, especialidade e CRM (com verificação de duplicidade do CRM).
 
-Cadastro de Pacientes**: Permite o cadastro de pacientes, incluindo nome, idade, médico responsável e status do atendimento (pendente ou atendido).
+Cadastro de Médicos: Permite o cadastro de médicos com informações essenciais, como nome, especialidade e CRM (com verificação de duplicidade do CRM).
 
-Gerenciamento de Atendimentos**: O sistema permite alterar o status de cada paciente para 'pendente' ou 'atendido', facilitando o controle do fluxo de atendimentos.
+Cadastro de Pacientes: Permite o cadastro de pacientes, incluindo nome, idade, médico responsável e status do atendimento (pendente ou atendido).
+
+Gerenciamento de Atendimentos: O sistema permite alterar o status de cada paciente para 'pendente' ou 'atendido', facilitando o controle do fluxo de atendimentos.
 
 Listagens**: O sistema oferece consultas de todos os médicos e pacientes cadastrados, com o vínculo entre paciente e médico.
 
